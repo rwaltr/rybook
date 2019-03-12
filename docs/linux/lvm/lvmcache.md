@@ -19,6 +19,8 @@ All LVs must be on the same VG
 ### Creating the cache
 
 One liner...
+
+
     lvcreate --type cache --cachemode writethrough -L 20G -n dataLV_cachepool dataVG/dataLV /dev/sda
 
 Options Explained:
