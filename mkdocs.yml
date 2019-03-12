@@ -4,10 +4,10 @@ site_author: Ryan W Walter
 site_url: 'https://blackphidora.gitlab.io/rybook'
 repo_url: 'https://gitlab.com/Blackphidora/rybook'
 repo_name: 'Rybook: CE Edition'
-
-# Nagication
+theme: windmill
+# navigation
 nav:
     - Home:
       - Linux:
-        - LVM Caching: linux/lvm/lvmcache.md;
+        - LVM Caching: linux/lvm/lvmcache.md
 
