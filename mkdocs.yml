@@ -8,6 +8,7 @@ theme: windmill
 # navigation
 nav:
     - Home: 'index.md'
+    - 'About Me': meta/aboutme/md
       - Linux:
         - LVM Caching: linux/lvm/lvmcache.md
 
