@@ -14,25 +14,26 @@ LVMcache uses the dm-cache kernel driver to create a hybrid storage LV using...
 
 All LVs must be on the same VG
 
-## TLDR
+## TL:DR
 
 ### Creating the cache
 
 One liner...
-       lvcreate --type cache --cachemode writethrough -L 20G -n dataLV_cachepool dataVG/dataLV /dev/<ssd>
+    lvcreate --type cache --cachemode writethrough -L 20G -n dataLV_cachepool dataVG/dataLV /dev/sda
 
 Options Explained:
 
 - "--type"
--- Defines the type of cache
+Defines the type of cache
+
 - "--cachemode"
--- Defines to either write to the ssd (writeback) or only use the ssd as a read cache (writethrough)
+Defines to either write to the ssd (writeback) or only use the ssd as a read cache (writethrough)
 
 ### Removing The Cache
 
-      lvconvert --uncache dataVG/dataLV
+    lvconvert --uncache dataVG/dataLV
 
 Flushes all writes to the cached vol and removed the caching layer
 
 ## Refrences
-[Arch Wiki[(https://wiki.archlinux.org/index.php/LVM#LVM_cache)
+[Arch Wiki](https://wiki.archlinux.org/index.php/LVM#LVM_cache)

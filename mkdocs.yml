@@ -3,7 +3,7 @@ site_description: A field book by a guy in the field
 site_author: Ryan W Walter
 repo_url: 'https://git.onr.com/rwwalter/rybook'
 repo_name: 'Rybook: LE Edition'
-
+theme: readthedocs
 
 nav:
     - Home: 'index.md'
