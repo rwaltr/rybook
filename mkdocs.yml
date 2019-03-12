@@ -6,7 +6,7 @@ repo_name: 'Rybook: LE Edition'
 
 
 nav:
-    - Home: 
+    - Home: index.md
       - Linux:
-        - LVM Caching: linux/lvm/lvmcache.md;
+        - LVM Caching: linux/lvm/lvmcache.md
 
