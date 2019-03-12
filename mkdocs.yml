@@ -7,7 +7,7 @@ repo_name: 'Rybook: CE Edition'
 theme: windmill
 # navigation
 nav:
-    - Home:
+    - Home: 'index.md'
       - Linux:
         - LVM Caching: linux/lvm/lvmcache.md
 
