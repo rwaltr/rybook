@@ -17,7 +17,10 @@ nav:
         - LVM Caching: linux/lvm/lvmcache.md
     - Windows:
       - Tidbits: windows/tidbits.md
-    - Tools: todo.md
-    
+    - Tools: 
+      - Software: tools/software.md
+      - Hardware: tools/hardware.md
+    - Meta:
+      - 'Maintaining the Meatbag': meta/maintthemeatbag.md
 
     - 'About Me': meta/aboutme.md

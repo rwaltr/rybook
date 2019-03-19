@@ -1,5 +1,6 @@
 #Tidbits
 
+### Chocolaty
 Need a package manager for windows. Use [choco!](https://chocolatey.org/)
 
 Run the following as an Administrator in CMD!
