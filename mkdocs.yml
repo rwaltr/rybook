@@ -9,11 +9,13 @@ theme: windmill
 nav:
     - Home: index.md
     - Linux:
+      - Booting:
+        - IPXE: linux/ipxe.md
       - Kickstart: linux/kickstart/whatiskickstart.md
-      - LVM:
-        - What is LVM: linux/lvm/whatislvm.md
+      - LVM: linux/lvm/whatislvm.md
         - LVM Caching: linux/lvm/lvmcache.md
     - Windows:
       - Tidbits: windows/tidbits.md
+    
 
     - 'About Me': meta/aboutme.md
