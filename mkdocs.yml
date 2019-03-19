@@ -9,6 +9,7 @@ theme: windmill
 nav:
     - Home: index.md
     - Linux:
+      - Kickstart: linux/kickstart/whatiskickstart.md
       - LVM:
         - What is LVM: linux/lvm/whatislvm.md
         - LVM Caching: linux/lvm/lvmcache.md
