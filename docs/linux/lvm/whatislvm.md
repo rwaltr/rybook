@@ -1,4 +1,4 @@
 # What is LVM
 
 
-!(LVM Diagram)[img/lvmdiagram.jpg]
+![LVM Diagram](img/lvmdiagram.jpg)
