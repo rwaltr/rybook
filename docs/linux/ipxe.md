@@ -11,6 +11,8 @@ If your boot envioment already contains IPXE, you can use
 
 
 ````
+
     dhcp #To obtain IP addr
     chain --autofree http://boot.netboot.xyz #to chainboot to IPXE
+    
 ````
