@@ -12,7 +12,8 @@ nav:
       - Booting:
         - IPXE: linux/ipxe.md
       - Kickstart: linux/kickstart/whatiskickstart.md
-      - LVM: linux/lvm/whatislvm.md
+      - LVM:
+        - What is LVM: linux/lvm/whatislvm.md
         - LVM Caching: linux/lvm/lvmcache.md
     - Windows:
       - Tidbits: windows/tidbits.md
