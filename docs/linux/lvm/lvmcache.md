@@ -9,7 +9,7 @@ LVM can be used to combine high speed volumes (such as SSDs) and low speed volum
 LVMcache uses the dm-cache kernel driver to create a hybrid storage LV using...
 
 - The original (Slow, large data) LV
-- The cache (Fast, likely smaller storage) LB
+- The cache (Fast, likely smaller storage) LV
 - Metadata LV (Used by LVM and DM-Cache for background information
 
 All LVs must be on the same VG

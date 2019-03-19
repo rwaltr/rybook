@@ -3,12 +3,14 @@ site_description: A field book by a guy in the field
 site_author: Ryan W Walter
 site_url: 'https://blackphidora.gitlab.io/rybook'
 repo_url: 'https://gitlab.com/Blackphidora/rybook'
-repo_name: 'Rybook: CE Edition'
+repo_name: 'Rybook'
 theme: windmill
 # navigation
 nav:
     - Home: index.md
-    - 'About Me': meta/aboutme.md
     - Linux:
-      - LVM Caching: linux/lvm/lvmcache.md
+      - LVM:
+        - What is LVM: linux/lvm/whatislvm.md
+        - LVM Caching: linux/lvm/lvmcache.md
 
+    - 'About Me': meta/aboutme.md
