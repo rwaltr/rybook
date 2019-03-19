@@ -17,7 +17,7 @@ nav:
         - LVM Caching: linux/lvm/lvmcache.md
     - Windows:
       - Tidbits: windows/tidbits.md
-    - Tools: tools/
+    - Tools: todo.md
     
 
     - 'About Me': meta/aboutme.md
