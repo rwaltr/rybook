@@ -17,6 +17,7 @@ nav:
         - LVM Caching: linux/lvm/lvmcache.md
     - Windows:
       - Tidbits: windows/tidbits.md
+      - Trendmicro: windows/Trendmicro.md
     - Tools: 
       - Software: tools/software.md
       - Hardware: tools/hardware.md
