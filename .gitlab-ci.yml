@@ -1,7 +1,7 @@
 image: python:alpine 
 before_script:
   - pip install mkdocs
-  - pip install mkdocs-windmill
+  # - pip install mkdocs-windmill # Original theme
   ## Add your custom theme if not inside a theme_dir (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
   # - pip install mkdocs-material
 pages:

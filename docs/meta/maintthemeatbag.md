@@ -1,8 +1,14 @@
 > Wat?
 >
-> Nothing is here?
+> There isnt alot here
 
 
-Yeah, Because this isn't fleshed out yet.
+**Yeah, Because this isn't fleshed out yet.**
 
-Check again some other time. 
+**Check again later?**
+___
+## Mental Sanity
+
+##### Grey Matter, shmay matter
+
+> **More to come!**
