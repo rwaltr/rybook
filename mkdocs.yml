@@ -21,8 +21,7 @@ nav:
     - Tools: 
       - Software: tools/software.md
       - Hardware: tools/hardware.md
-    - Checklists:
-      - Instalation: tools/checklists/installation.md
+    - Checklists: meta/checklists.md
     - Meta:
       - 'Maintaining the Meatbag': meta/maintthemeatbag.md
 
