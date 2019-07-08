@@ -4,7 +4,7 @@ site_author: Ryan W Walter
 site_url: 'https://blackphidora.gitlab.io/rybook'
 repo_url: 'https://gitlab.com/Blackphidora/rybook'
 repo_name: 'Rybook'
-theme: windmill
+theme: readthedocs
 # navigation
 nav:
     - Home: index.md
