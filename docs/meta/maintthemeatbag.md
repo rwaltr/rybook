@@ -8,7 +8,8 @@ That means that we require more maintinece than a `dnf upgrade greymatter`
 
 
 ## Burnout
-> I can't take it anymore Bobby!
+
+```I can't take it anymore Bobby!```
 
 Burnout is when one is suffering metal, social, and moral fatige due to high stress workloads over a period of time.
 
@@ -26,4 +27,3 @@ in summery...
 
 
 
-> **More to come!**
