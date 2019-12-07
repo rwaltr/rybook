@@ -19,6 +19,7 @@ nav:
         - NCQ: linux/kernel/NCQ.md
     - Windows:
       - Tidbits: windows/tidbits.md
+      - Run Prompt Shortcuts: windows/shortcuts.md
       - Trendmicro: windows/Trendmicro.md
     - Tools: 
       - Software: tools/software.md
