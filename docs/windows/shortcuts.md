@@ -5,7 +5,7 @@
 - `ncpa.cpl` will open the **Network Connections** control panel
 - `appwiz.cpl` will open the **Program and Features** control panel
 - `control` will open the **Win7 style Control panel**
-- `compmgmt.msc` opens **Computer Managment**
+- `compmgmt.msc` opens **Computer Management**
 - `wf.msc` opens **Windows Firewall**
 - `inetcpl.cpl` opens **Internet Properties** (Used by IE and Chrome) 
 - `gpedit.msc` opens **Group Policy Editor** (Pro and above)
