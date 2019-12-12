@@ -17,6 +17,7 @@
 - `UserAccountControlSettings` opens the **User Account Control**
 - `powershell` opens **Powershell**
 - `winver` opens the About Windows page 
+- `diskmgmt.msc` will open disk manager. 
 
 
 [Ref](https://www.youtube.com/watch?v=10QSpg2sZgk)
