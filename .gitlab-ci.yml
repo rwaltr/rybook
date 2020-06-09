@@ -1,4 +1,4 @@
-image: python:alpine 
+image: python
 before_script:
   - pip install mkdocs
   # - pip install mkdocs-windmill # Original theme
