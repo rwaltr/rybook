@@ -17,6 +17,8 @@ nav:
         - LVM Caching: linux/lvm/lvmcache.md
       - Kernel:
         - NCQ: linux/kernel/NCQ.md
+    - Fortigate:
+        - Resources: fortigate/resources.md
     - Windows:
       - Tidbits: windows/tidbits.md
       - Run Prompt Shortcuts: windows/shortcuts.md
