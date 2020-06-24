@@ -5,6 +5,6 @@
 
 Do you think something should be added? Create an [issue](https://gitlab.com/Blackphidora/rybook/issues)
 
-> There use to be a pipeline notification here, but Brokenbyte said it broke. so I removed it. 
+> There use to be a pipeline notification here, but brokenbyte said it broke. so I removed it. 
 >
 > Just call it removing bloatware
